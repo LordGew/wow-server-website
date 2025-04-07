@@ -158,7 +158,7 @@ const Header = () => {
               href="/auth/signup"
               className="flex items-center justify-center rounded-full bg-primary px-7.5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-primaryho"
             >
-              Register
+              Crear cuenta
             </Link>
           </div>
         </div>

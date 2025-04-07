@@ -100,7 +100,7 @@ const Signup = () => {
             className="animate_top rounded-lg bg-white px-7.5 pt-7.5 shadow-solid-8 dark:border dark:border-strokedark dark:bg-black xl:px-15 xl:pt-15"
           >
             <h2 className="mb-15 text-center text-3xl font-semibold text-black dark:text-white xl:text-sectiontitle2">
-              Create an Account
+              Crear Cuenta
             </h2>
 
             <form onSubmit={handleFormSubmit}>
@@ -108,7 +108,7 @@ const Signup = () => {
                 <input
                   name="username"
                   type="text"
-                  placeholder="Username"
+                  placeholder="Usuario"
                   value={data.username}
                   onChange={(e) =>
                     setData({ ...data, [e.target.name]: e.target.value })
@@ -119,7 +119,7 @@ const Signup = () => {
                 <input
                   name="email"
                   type="email"
-                  placeholder="Email address"
+                  placeholder="Correo electrónico"
                   value={data.email}
                   onChange={(e) =>
                     setData({ ...data, [e.target.name]: e.target.value })
@@ -132,7 +132,7 @@ const Signup = () => {
                 <input
                   name="password"
                   type="password"
-                  placeholder="Password"
+                  placeholder="Contraseña"
                   value={data.password}
                   onChange={(e) =>
                     setData({ ...data, [e.target.name]: e.target.value })
@@ -143,7 +143,7 @@ const Signup = () => {
                 <input
                   name="confirmPassword"
                   type="password"
-                  placeholder="Confirm Password"
+                  placeholder="Confirmar Contraseña"
                   value={data.confirmPassword}
                   onChange={(e) =>
                     setData({ ...data, [e.target.name]: e.target.value })
@@ -166,7 +166,7 @@ const Signup = () => {
                   aria-label="signup with email and password"
                   className="inline-flex items-center gap-2.5 rounded-full bg-black px-6 py-3 font-medium text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho"
                 >
-                  Create Account
+                  Crear Cuenta
                   <svg
                     className="fill-white"
                     width="14"
@@ -185,12 +185,12 @@ const Signup = () => {
 
               <div className="mt-12.5 border-t border-stroke py-5 text-center dark:border-strokedark">
                 <p>
-                  Already have an account?{" "}
+                  Ya tienes una cuenta?{" "}
                   <Link
                     className="text-black hover:text-primary dark:text-white dark:hover:text-primary"
                     href="/auth/signin"
                   >
-                    Sign In
+                   Ingresar
                   </Link>
                 </p>
               </div>

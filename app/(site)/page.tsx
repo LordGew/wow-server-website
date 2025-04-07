@@ -8,7 +8,7 @@ import Testimonial from "@/components/Testimonial";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Private Server Wow",
+  title: "Storm Reign wow",
   // other metadata
   description: "xx",
 };
