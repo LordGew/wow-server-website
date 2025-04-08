@@ -235,7 +235,7 @@ const Footer = () => {
                     href="https://www.wowlibre.com/"
                     className="hover:text-primary"
                   >
-                    Storm Reign 3.3.5a
+                    EntropiuX Wow 
                   </a>
                 </li>
               </ul>

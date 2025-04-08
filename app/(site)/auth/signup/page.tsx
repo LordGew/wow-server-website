@@ -2,7 +2,7 @@ import Signup from "@/components/Auth/Signup";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Crear una cuenta | Storm Reign wow",
+  title: "Crear una cuenta | EntropiuX  wow",
 
   // other metadata
   description: "Create an account to access Private Server",

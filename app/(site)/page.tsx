@@ -8,7 +8,7 @@ import Testimonial from "@/components/Testimonial";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Storm Reign wow",
+  title: "EntropiuX Wow",
   // other metadata
   description: "xx",
 };
