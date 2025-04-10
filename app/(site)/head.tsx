@@ -3,7 +3,7 @@ export default function Head() {
     <>
       <title> EntropiuX wow</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="description" content="Entropiux wow" />
+      <meta name="description" content="Disfruta de una experiencia única en WoW: War Within en nuestro servidor privado. Con características avanzadas, seguridad total y una comunidad activa, ¡juega gratis y descubre todo lo que Azeroth tiene para ofrecer!" />
       <link rel="icon" href="/images/favicon.ico" />
     </>
   );

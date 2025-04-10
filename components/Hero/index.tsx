@@ -21,11 +21,10 @@ const Hero = () => {
                 </span>
               </h1>
               <p>
-                Sumérgete en el mejor servidor de WoW 3.3.5, con raids,
-                mazmorras y PvP 100% divertida. Disfruta de una experiencia
-                Blizzlike optimizada, eventos personalizados y una comunidad
-                apasionada, así como un Staff comprometido. ¡Únete a nosotros y
-                revive la magia de Azeroth!
+              ¡Adéntrate en Azeroth como nunca antes! Descubre el primer Servidor Privado de WoW: War Within – Juega GRATIS y vive la experiencia definitiva.
+              </p>
+              <p>
+              Personalización total, eventos épicos, y una comunidad vibrante te esperan. ¡Únete hoy y forma parte de la nueva era de World of Warcraft!
               </p>
 
               <div className="mt-10">

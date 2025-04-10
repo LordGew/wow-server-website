@@ -260,8 +260,9 @@ const Footer = () => {
               className="animate_top"
             >
               <p>
-                &copy; {new Date().getFullYear()} @Private WoW Server. All
-                rights
+                &copy; {new Date().getFullYear()} ¡Explora, personaliza y conquista! Experimenta un mundo de aventuras sin interrupciones en nuestro servidor privado de WoW: War Within. ¡Juega y comparte la historia!
+
+
               </p>
             </motion.div>
 

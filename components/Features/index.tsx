@@ -15,7 +15,7 @@ const Feature = () => {
             headerInfo={{
               title: "Características",
               subtitle: "Servidor Estable y Optimizado",
-              description: `Disfruta de una experiencia fluida y sin interrupciones, con una infraestructura sólida y mínima latencia.`,
+              description: `¿Listo para la aventura? Regístrate ahora y comienza a disfrutar de un juego sin límites, con soporte 24/7, guías exclusivas y torneos en vivo`,
             }}
           />
           {/* <!-- Section Title End --> */}
